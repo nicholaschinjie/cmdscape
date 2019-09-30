@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Others ###
+node_modules
+.DS_Store
