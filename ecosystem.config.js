@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a8fed4a42340e9a59723b67f3414f08965d79bf0
 module.exports = {
   apps: [{
     name: 'cmdscape',
